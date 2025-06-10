@@ -58,3 +58,8 @@ Serviços de Armazenamento - Blob (quantidades massivas de dados); Disco (fornec
 * Segurança - prevenção de ataques.
 * Governança - estabelecer modelos de regras.
 * Gerenciabilidade - facilitar a utilização e gerenciamento de recursos dos usuários com base em sua necessidade.
+
+## SLAs (Service Level Agreement)
+Acordo de Nível de Serviço é um contrato entre um prestador de serviços e um cliente, que define detalhes do serviço a ser fornecido. Esses detalhes incluem o nível de desempenho esperado, as metodologias de medições de desempenho e o que acontecerá se os níveis de desempenho não forem atingidos. Geralmente, há um ressarcimento por parte do fornecedor do serviço.
+Uma dica a ser visto é a quantidade de 9's que o contrato terá para entender o menor tempo de indisponibilidade do serviço.
+A redundância de armazenamento pode ajudar a ter menos tempo de indisponibilidade do serviço também, já que é criado cópias.
