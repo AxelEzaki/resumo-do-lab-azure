@@ -23,6 +23,7 @@ Nuvem Privada - DataCenter própria da empresa, sendo responsável por operar os
 Nuvem Pública - Pertencente a serviços de nuvem ou provedor de Hosting. Fornece recursos e serviços a várias organizações/usuários.
 
 CapEx/OpEx
+
 CapEx - despesas de capital; gasto inicial em infraestrutura física, que pode se reduzir com o tempo
 OpEx - despesas operacionais; gastos com produtos e serviços conforme necessidade, pagando conforme o uso
 
@@ -63,3 +64,6 @@ Serviços de Armazenamento - Blob (quantidades massivas de dados); Disco (fornec
 Acordo de Nível de Serviço é um contrato entre um prestador de serviços e um cliente, que define detalhes do serviço a ser fornecido. Esses detalhes incluem o nível de desempenho esperado, as metodologias de medições de desempenho e o que acontecerá se os níveis de desempenho não forem atingidos. Geralmente, há um ressarcimento por parte do fornecedor do serviço.
 Uma dica a ser visto é a quantidade de 9's que o contrato terá para entender o menor tempo de indisponibilidade do serviço.
 A redundância de armazenamento pode ajudar a ter menos tempo de indisponibilidade do serviço também, já que é criado cópias.
+
+# Microsoft Learn
+A computação em nuvem é a entrega de serviços de computação pela Internet. Os serviços de computação incluem infraestrutura de TI comum, como máquinas virtuais, armazenamento, bancos de dados e rede. Também pode se expandir para IoT (Internet das Coisas), ML (machine learning) e IA (inteligência artificial).
