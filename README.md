@@ -67,3 +67,14 @@ A redundância de armazenamento pode ajudar a ter menos tempo de indisponibilida
 
 # Microsoft Learn
 A computação em nuvem é a entrega de serviços de computação pela Internet. Os serviços de computação incluem infraestrutura de TI comum, como máquinas virtuais, armazenamento, bancos de dados e rede. Também pode se expandir para IoT (Internet das Coisas), ML (machine learning) e IA (inteligência artificial).
+
+## Cenários (modelo de responsabilidade compartilhada)
+Cenários comuns para IaaS:
+
+* Migração lift-and-shift: configurando recursos para nuvem semelhante ao datacenter local, apenas migrando de execução local para infraestrutura IaaS.
+* Teste e desenvolvimento: configurações para ambientes de desenvolvimento e teste que precisa replicar rapidamente. Você pode inicializar ou desativar os diferentes ambientes rapidamente com uma estrutura de IaaS, mantendo o controle completo.
+
+Cenários para PaaS:
+
+* Estrutura de desenvolvimento: usar como base para desenvolver ou personalizar aplicativos baseados em nuvem. São incluídos recursos de nuvem, como escalabilidade, alta disponibilidade e a funcionalidade de multilocatário, reduzindo a quantidade de codificação que os desenvolvedores precisam realizar.
+* Análise ou business intelligence: permitem que as organizações analisem e minerem dados, encontrando insights e padrões e prevendo resultados para aprimorar a previsão, as decisões de design de produto, o retornos sobre investimentos e outras decisões de negócios.
