@@ -78,3 +78,7 @@ Cenários para PaaS:
 
 * Estrutura de desenvolvimento: usar como base para desenvolver ou personalizar aplicativos baseados em nuvem. São incluídos recursos de nuvem, como escalabilidade, alta disponibilidade e a funcionalidade de multilocatário, reduzindo a quantidade de codificação que os desenvolvedores precisam realizar.
 * Análise ou business intelligence: permitem que as organizações analisem e minerem dados, encontrando insights e padrões e prevendo resultados para aprimorar a previsão, as decisões de design de produto, o retornos sobre investimentos e outras decisões de negócios.
+
+# IAs
+## IAs Generativas
+Sistemas capazes de criar, aprimorar e adaptar conteúdos de forma autônoma que se assemelha a qualidade humana.
