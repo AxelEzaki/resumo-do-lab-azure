@@ -82,3 +82,13 @@ Cenários para PaaS:
 # IAs
 ## IAs Generativas
 Sistemas capazes de criar, aprimorar e adaptar conteúdos de forma autônoma que se assemelha a qualidade humana.
+
+## Prompts
+- Instrução
+- Exemplos (Few-shot Learning) -> exemplo de estrutura de resposta para instrução pedida à IA. Modelo de retorno para IA seguir.
+- Contexto/Configuração -> cenário, contexto em que a IA pode atuar. "Imagine que..."
+- Restrições/Limitações -> limitar a resposta, escopo, em termos de extensão ou o que será retornado. "Responda em até ... palavras sobre..."
+- Conteúdo principal -> dado relevante, necessário, para o processamento da instrução dada. Pode ser um dado, tabelas, parágrafos, etc., que deve ser analisado/traduzido.
+- Indicações -> são especificações para guiar as respostas para saídas específicas.
+- Formato de Saída -> define como o modelo deve estruturar as respostas em termos de formato/estilo. "Retorne em tópicos..."; "Retorne como parágrafo..."
+- COnteúdo de Suporte -> dar contexto e informações para que o modelo adapte sua resposta para diferentes cenários.
