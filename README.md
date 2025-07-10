@@ -91,4 +91,14 @@ Sistemas capazes de criar, aprimorar e adaptar conteúdos de forma autônoma que
 - Conteúdo principal -> dado relevante, necessário, para o processamento da instrução dada. Pode ser um dado, tabelas, parágrafos, etc., que deve ser analisado/traduzido.
 - Indicações -> são especificações para guiar as respostas para saídas específicas.
 - Formato de Saída -> define como o modelo deve estruturar as respostas em termos de formato/estilo. "Retorne em tópicos..."; "Retorne como parágrafo..."
-- COnteúdo de Suporte -> dar contexto e informações para que o modelo adapte sua resposta para diferentes cenários.
+- Conteúdo de Suporte -> dar contexto e informações para que o modelo adapte sua resposta para diferentes cenários.
+
+## Técnicas de Engenharia de Prompt
+- Instrução Clara -> Técnica que organiza a instrução para serem objetivas e detalhadas, evitando ambiguidades e confusões.
+- Repetir instruções no final -> Deixando claro o que a IA deve retornar. Podendo garantir uma resposta completa.
+- Guardrails -> Técnica para limitar as respostas para coisas mais relevantes e práticas. Evitando informações inúteis.
+- Preparando Saída -> Indicar como o usuário deseja como que entregue a resposta. Indicando também um exemplo para que ele siga.
+- Solicitação de Cadeia de Pensamento -> Instrução para a IA responder passo a passo a explicação antes de chegar a sua conclusão.
+- Especificar Estrutura de Saída -> Definir do formato exato da saída/resposta.
+- Dividir a Tarefa -> Quebre problemas grandes para etapas menores para fácil resolução por parte do modelo.
+- Adicionar Sintaxe Clara
